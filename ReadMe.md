@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante iniciante na área de programador <br>
+beginner student in the programming <br>
 
 
 ## 🌐 Socials:
