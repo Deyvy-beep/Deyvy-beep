@@ -1,5 +1,5 @@
 # 💫 About Me:
-beginner student in the programming <br>
+Estudante de ADS | Desenvolvendo projetos em HTML, CSS e Python | Apaixonado por resolver problemas com código 💻 <br>
 
 
 ## 🌐 Socials:
